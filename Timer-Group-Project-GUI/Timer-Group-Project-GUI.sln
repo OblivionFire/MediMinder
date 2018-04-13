@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26403.7
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timer-Group-Project-GUI", "Timer-Group-Project-GUI\Timer-Group-Project-GUI.csproj", "{5B9EC643-F14A-40EE-8A82-CC4610C92EAE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Method Source - Timer Group Project", "..\Method Source - Timer Group Project\Method Source - Timer Group Project\Method Source - Timer Group Project.csproj", "{89A29F69-1154-4103-8C69-8F9A02B0BADD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B9EC643-F14A-40EE-8A82-CC4610C92EAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B9EC643-F14A-40EE-8A82-CC4610C92EAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B9EC643-F14A-40EE-8A82-CC4610C92EAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B9EC643-F14A-40EE-8A82-CC4610C92EAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89A29F69-1154-4103-8C69-8F9A02B0BADD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89A29F69-1154-4103-8C69-8F9A02B0BADD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89A29F69-1154-4103-8C69-8F9A02B0BADD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89A29F69-1154-4103-8C69-8F9A02B0BADD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
