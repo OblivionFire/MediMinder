@@ -12,15 +12,13 @@ Visual Studio Community 2013 or newer.
 
 ### Installing
 
-Simply close the repo, load the Visual Sudio project, build a solution, and compile.
+Simply clone the repo, load the Visual Sudio project, build a solution, and compile.
 
-Using the tool bar at the top of the scree you can add medication or events. Medications can be linked to a event to display that the medication should be taken or should have been completed by that time.
+Using the menu bar at the top of the application you can add medication or events. Medications can be linked to a event to display that the medication should be taken or should have been completed by that time. And current events are displayed on the menu screen.
 
 ## Built With
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+* [Visual Studio 2017](https://www.visualstudio.com/) - Used for GUI design, frameworks, and code development
 
 ## Contributing
 
